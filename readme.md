@@ -1,6 +1,6 @@
 # Lab 4
 
-![1](/images/1.PNG)
-![2](/images/2.PNG)
-![3](/images/3.PNG)
-![4](/images/3.PNG)
+![1](/Images/1.PNG)
+![2](/Images/2.PNG)
+![3](/Images/3.PNG)
+![4](/Images/3.PNG)
